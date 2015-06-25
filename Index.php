@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Proyecto Multimedios 2015</title>
+    <link rel="stylesheet" href="Estilos.css" >
 </head>
 <body>
 
