@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Proyecto Multimedios 2015</title>
 </head>
 <body>
 
